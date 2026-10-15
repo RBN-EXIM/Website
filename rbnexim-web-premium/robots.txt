@@ -1,8 +1,0 @@
-# robots.txt for RBN EXIM (https://rbnexim.com)
-User-agent: *
-Allow: /
-
-# Direct links to sitemap and LLM context files
-Sitemap: https://rbnexim.com/sitemap.xml
-# LLM knowledge file (https://llmstxt.org)
-# Location: https://rbnexim.com/llms.txt
