@@ -1,8 +1,22 @@
 # robots.txt for RBN EXIM (https://rbnexim.com)
+# Compliance with Googlebot, Bingbot & Modern Web Crawlers
+
 User-agent: *
 Allow: /
+Allow: /assets/
+Allow: /Certificates/
+Allow: /llms.txt
 
-# Direct links to sitemap and LLM context files
+# Prevent search indexing of internal extraction, metadata & developer files
+Disallow: /*_extracted.txt
+Disallow: /*.metadata.json
+Disallow: /CNAME
+Disallow: /.nojekyll
+
+# Prevent crawler query-parameter duplicate indexing (tracking & campaign parameters)
+Disallow: /*?*utm_*
+Disallow: /*?*fbclid=*
+Disallow: /*?*gclid=*
+
+# XML Sitemap Directives
 Sitemap: https://rbnexim.com/sitemap.xml
-# LLM knowledge file (https://llmstxt.org)
-# Location: https://rbnexim.com/llms.txt
