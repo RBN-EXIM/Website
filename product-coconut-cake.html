@@ -32,6 +32,11 @@
     <!-- Favicon -->
     <link rel="icon" type="image/png" href="assets/logo-transparent.png">
     <link rel="apple-touch-icon" href="assets/logo-transparent.png">
+        <!-- Performance Resource Hints -->
+    <link rel="dns-prefetch" href="https://www.googletagmanager.com">
+    <link rel="dns-prefetch" href="https://fonts.googleapis.com">
+    <link rel="dns-prefetch" href="https://fonts.gstatic.com">
+    <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400&display=swap" rel="stylesheet">
@@ -68,6 +73,8 @@
     <meta name="twitter:title" content="Coconut Expeller Cake (Copra Meal) Export Specifications | RBN EXIM">
     <meta name="twitter:description" content="High-protein, mechanically expeller-pressed coconut cake directly from Tiptur, Karnataka. 18-22% protein, chemical-free, packaged in 50kg export bags.">
     <meta name="twitter:image" content="https://rbnexim.com/assets/raw_cake.jpg">
+    <!-- Preload Critical Hero Image for LCP -->
+    <link rel="preload" as="image" href="assets/raw_cake.jpg" fetchpriority="high">
 </head>
 <body class="bg-[#FAF7F2] text-brand-dark font-sans antialiased flex flex-col min-h-screen" x-data="{ mobileMenuOpen: false }">
 
