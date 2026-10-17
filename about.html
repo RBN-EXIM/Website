@@ -14,6 +14,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
+    <meta name="referrer" content="strict-origin-when-cross-origin">
     <title>Our Story | Kalpavriksha by RBN EXIM</title>
     
     <!-- SEO & Metadata -->
@@ -59,7 +60,44 @@
         }
     </style>
     <!-- Preload Critical Hero Image for LCP -->
-    <link rel="preload" as="image" href="assets/ai_hero_copra_about_v2_1790407954463.jpg" fetchpriority="high">
+    <link rel="preload" as="image" href="assets/ai_hero_copra_about_v2_1790407954463.webp" type="image/webp" fetchpriority="high">
+    <!-- Schema.org Breadcrumb Navigation Structured Data -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://rbnexim.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "About Us",
+          "item": "https://rbnexim.com/about.html"
+        }
+      ]
+    }
+    </script>
+    <!-- Schema.org AboutPage Structured Data -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "AboutPage",
+      "@id": "https://rbnexim.com/about.html#webpage",
+      "url": "https://rbnexim.com/about.html",
+      "name": "About Kalpavriksha by RBN EXIM",
+      "description": "The heritage, mission, and export infrastructure of RBN EXIM, premier manufacturer of coconut commodities from Tiptur, India.",
+      "mainEntity": {
+        "@type": "Organization",
+        "name": "RBN EXIM",
+        "url": "https://rbnexim.com/"
+      }
+    }
+    </script>
 </head>
 <body class="bg-[#FAF7F2] text-brand-dark font-sans antialiased" x-data="{ mobileMenuOpen: false }">
 
@@ -70,7 +108,7 @@
                 <div class="flex-shrink-0 flex items-center">
                     <a href="index.html" class="flex items-center gap-3 group">
                         <div class="h-10 md:h-12 flex items-start">
-                            <img src="assets/logo-transparent.png" alt="RBN EXIM Graphic" class="h-[3.25rem] md:h-16 w-auto object-contain drop-shadow-sm" style="clip-path: inset(0 0 25% 0);">
+                            <img src="assets/logo-transparent.png" alt="RBN EXIM Graphic" class="h-[3.25rem] md:h-16 w-auto object-contain drop-shadow-sm" style="clip-path: inset(0 0 25% 0);" width="512" height="512">
                         </div>
                         <div class="flex flex-col justify-center mt-0.5">
                             <span class="text-brand-dark font-serif font-bold text-2xl md:text-[1.75rem] leading-none tracking-tight group-hover:text-[#4A2E1B] transition-colors">RBN EXIM</span>
@@ -88,7 +126,7 @@
                 </div>
                 <div class="md:hidden flex items-center">
                     <button @click="mobileMenuOpen = !mobileMenuOpen" 
-                            class="w-11 h-11 flex items-center justify-center rounded-md text-brand-dark hover:bg-brand-dark/5 active:bg-brand-dark/10 transition-colors focus:outline-none" 
+                            class="w-12 h-12 flex items-center justify-center rounded-md text-brand-dark hover:bg-brand-dark/5 active:bg-brand-dark/10 transition-colors focus:outline-none" 
                             aria-label="Toggle Navigation Menu">
                         <svg style="width: 1.5rem; height: 1.5rem;" class="h-6 w-6" stroke="currentColor" fill="none" viewBox="0 0 24 24">
                             <path x-show="!mobileMenuOpen" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
@@ -130,7 +168,7 @@
     <header class="relative pt-16 md:pt-20 bg-[#FAF7F2]">
         <!-- Image Area: 50vh on mobile, responsive height -->
         <div class="w-full h-[50vh] md:h-[65vh] relative">
-            <img src="assets/ai_hero_copra_about_v2_1790407954463.jpg" alt="Premium Tiptur Copra Export" class="w-full h-full object-cover">
+            <img src="assets/ai_hero_copra_about_v2_1790407954463.jpg" alt="Premium Tiptur Copra Export" class="w-full h-full object-cover" width="1376" height="768">
             <div class="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent"></div>
         </div>
         
@@ -153,7 +191,7 @@
             <!-- Portrait/Avatar Focus -->
             <div class="relative w-32 h-32 sm:w-44 sm:h-44 md:w-56 md:h-56 mx-auto mb-10">
                 <div class="absolute inset-0 bg-[#8c5e35] rounded-full transform translate-x-2 translate-y-2 opacity-20"></div>
-                <img src="assets/Photo for LinkedIn.png" alt="B Manjula - Founder &amp; Visionary, RBN EXIM" class="relative w-full h-full object-cover rounded-full shadow-2xl border-4 border-white z-10">
+                <img src="assets/Photo for LinkedIn.png" alt="B Manjula - Founder &amp; Visionary, RBN EXIM" class="relative w-full h-full object-cover rounded-full shadow-2xl border-4 border-white z-10" width="600" height="539">
             </div>
             
             <h2 class="text-3xl md:text-5xl font-serif font-bold mb-4 text-[#2A1F1D]">B Manjula</h2>
@@ -182,7 +220,7 @@
                 <!-- Card 1 -->
                 <div class="sticky-card top-24 md:top-32 w-full h-auto min-h-[480px] sm:h-[65vh] md:h-[600px] rounded-3xl overflow-hidden shadow-xl mb-6 bg-white border border-[#2A1F1D]/5 flex flex-col">
                     <div class="h-[55%] w-full relative">
-                        <img src="assets/ai_copra_about_new_1790407228959.jpg" alt="Raw Copra Sourcing" class="absolute inset-0 w-full h-full object-cover">
+                        <img src="assets/ai_copra_about_new_1790407228959.jpg" alt="Raw Copra Sourcing" class="absolute inset-0 w-full h-full object-cover" width="1376" height="768">
                     </div>
                     <div class="h-auto sm:h-[45%] p-5 sm:p-8 md:p-12 flex flex-col justify-center bg-white">
                         <div class="flex items-center gap-4 mb-4">
@@ -196,7 +234,7 @@
                 <!-- Card 2 -->
                 <div class="sticky-card top-28 md:top-36 w-full h-auto min-h-[480px] sm:h-[65vh] md:h-[600px] rounded-3xl overflow-hidden shadow-xl mb-6 bg-white border border-[#2A1F1D]/5 flex flex-col">
                     <div class="h-[55%] w-full relative">
-                        <img src="assets/ai_oil_about_1790406993471.jpg" alt="Cold Pressed Coconut Oil Manufacturing" class="absolute inset-0 w-full h-full object-cover">
+                        <img src="assets/ai_oil_about_1790406993471.jpg" alt="Cold Pressed Coconut Oil Manufacturing" class="absolute inset-0 w-full h-full object-cover" width="1376" height="768">
                     </div>
                     <div class="h-auto sm:h-[45%] p-5 sm:p-8 md:p-12 flex flex-col justify-center bg-white">
                         <div class="flex items-center gap-4 mb-4">
@@ -210,7 +248,7 @@
                 <!-- Card 3 -->
                 <div class="sticky-card top-32 md:top-40 w-full h-auto min-h-[480px] sm:h-[65vh] md:h-[600px] rounded-3xl overflow-hidden shadow-xl bg-white border border-[#2A1F1D]/5 flex flex-col">
                     <div class="h-[55%] w-full relative">
-                        <img src="assets/ai_export_about_1790407029341.jpg" alt="Global Export Operations" class="absolute inset-0 w-full h-full object-cover">
+                        <img src="assets/ai_export_about_1790407029341.jpg" alt="Global Export Operations" class="absolute inset-0 w-full h-full object-cover" width="1376" height="768">
                     </div>
                     <div class="h-auto sm:h-[45%] p-5 sm:p-8 md:p-12 flex flex-col justify-center bg-white">
                         <div class="flex items-center gap-4 mb-4">
@@ -232,7 +270,7 @@
                 
                 <!-- Brand Info -->
                 <div class="col-span-1 lg:col-span-1">
-                    <img src="assets/rbn-exim-logo.png" alt="RBN EXIM Logo" class="h-24 w-auto object-contain mb-6 -ml-2">
+                    <img src="assets/rbn-exim-logo.png" alt="RBN EXIM Logo" class="h-24 w-auto object-contain mb-6 -ml-2" width="512" height="512">
                     <p class="text-white/60 text-sm leading-relaxed mb-6">
                         Delivering India's finest agricultural products and premium coconut exports to the global market.
                     </p>

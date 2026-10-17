@@ -1,0 +1,157 @@
+# RBN EXIM — Full Enterprise Knowledge Base & Product Specifications
+> Official Comprehensive Knowledge File for Generative AI Models, Search Engines & Enterprise Procurement Agents
+> Standard: https://llmstxt.org | Canonical: https://rbnexim.com/llms-full.txt
+
+---
+
+## 1. Corporate Identity & Legal Entity
+- **Company Name:** RBN EXIM
+- **Export Brand:** Kalpavriksha by RBN EXIM
+- **Managing Director / Founder:** B Manjula
+- **Headquarters & Factory Address:** K.R Extension, Ward No.19, Tiptur, Tumkur District, Karnataka 572201, India
+- **Core Specialization:** Sourcing, manufacturing, processing, and global bulk B2B exporting of certified pure coconut products, copra, charcoal derivatives, and castor oil.
+- **Official Website:** https://rbnexim.com
+- **Sales & Export Desk:** info@rbnexim.com | Phone / WhatsApp: +91 70190 81066
+- **Accreditations & Registrations:** IEC (Import Export Code), APMC Tiptur Registered Trader, FSSAI Licensed, MSME Registered, ISO 22000 & GMP compliant processing partners.
+
+---
+
+## 2. Exhaustive Commodity Catalogs & Technical Data Sheets (TDS)
+
+### Product 1: Cold-Pressed Virgin Coconut Oil (VCO)
+- **Canonical URL:** https://rbnexim.com/product-virgin-coconut-oil.html
+- **HS Code:** 15131100
+- **Extraction Protocol:** Wet-milling and cold centrifuge extraction directly from fresh, mature grated coconut milk. Strictly cold-pressed without heating above 45°C.
+- **Chemical & Physical Specifications:**
+  - Free Fatty Acids (FFA as Lauric): < 0.10% (Export Grade A)
+  - Moisture Content: < 0.10%
+  - Lauric Acid (C12:0): 49.5% – 53.2%
+  - Peroxide Value (PV): < 0.5 meq O2/kg
+  - Iodine Value: 6.0 – 9.0
+  - Saponification Value: 250 – 265 mg KOH/g
+  - Appearance: Water-clear liquid (>24°C) / Pure snow-white crystalline solid (<24°C)
+  - Aroma: Mild, fresh natural raw coconut aroma; 100% free from rancidity, smoke, or burnt notes.
+- **Packaging & Logistics:**
+  - 200 Liter Food-Grade Virgin HDPE Drums (190 kg net)
+  - 1000 Liter Intermediate Bulk Containers (IBC Totes / 920 kg net)
+  - 20ft ISO Flexibags / Flexitanks (21.5 Metric Tons net)
+  - Private label glass & PET bottling available for retail container orders.
+- **Primary Industrial Applications:** Functional food, nutraceutical capsules, cosmetic emollient, premium soap bases, baby care formulations, pharmaceutical excipients.
+
+---
+
+### Product 2: Expeller Pressed Coconut Oil (Milling & Edible Grade)
+- **Canonical URL:** https://rbnexim.com/product-coconut-oil.html
+- **HS Code:** 15131900
+- **Extraction Protocol:** Mechanical screw-press extraction from sun-dried edible ball copra half cups sourced from Tiptur, double filtered through filter press cloths.
+- **Chemical & Physical Specifications:**
+  - Free Fatty Acids (FFA as Lauric): < 0.8% – 1.0%
+  - Moisture & Insoluble Impurities: < 0.20%
+  - Peroxide Value: < 1.0 meq O2/kg
+  - Color (Lovibond 1/4" cell): Y < 2.0, R < 0.3
+  - Specific Gravity (30°C): 0.915 – 0.920
+  - Refractive Index (40°C): 1.448 – 1.450
+- **Packaging & Logistics:** 200L Steel Drums, 1000L IBCs, 20ft Flexitanks (21 Metric Tons).
+- **Primary Applications:** Commercial food frying, confectionery fats, industrial soap manufacturing, hair oil base, oleochemical fatty acids.
+
+---
+
+### Product 3: Premium Tiptur Copra (Dried Coconut Half Cups)
+- **Canonical URL:** https://rbnexim.com/product-copra.html
+- **HS Code:** 12030000
+- **Geographic Sourcing:** Sourced exclusively from Tiptur, Karnataka—known globally as the highest-oil coconut belt in South Asia.
+- **Grades Available:**
+  1. **Edible Grade (Ball Copra):** Whole round cups, pristine white-to-light cream meat, sweet taste, zero mold, sulfur-free.
+  2. **Milling Grade (Grade A Half Cups):** Sun-dried copra halves optimized for oil extraction efficiency.
+- **Technical Specifications:**
+  - Oil Content (Dry Basis): > 68.0% (Reaching up to 71% in peak season)
+  - Moisture Content: < 5.5% – 6.0% (Guarantees zero mold growth during sea transit)
+  - Free Fatty Acid (FFA): < 1.0%
+  - Damaged / Discolored Cups: < 1.5%
+  - Foreign Matter: < 0.25%
+- **Packaging & Logistics:** 25 kg, 40 kg, and 50 kg high-tensile breathable polypropylene (PP) woven bags. 20ft FCL holds ~12–14 MT; 40ft High Cube holds ~24–26 MT.
+
+---
+
+### Product 4: Coconut Shell Charcoal Granulated Chips
+- **Canonical URL:** https://rbnexim.com/product-charcoal-chips.html
+- **HS Code:** 44029010
+- **Manufacturing:** High-temperature carbonization of clean, seasoned mature coconut shells in controlled masonry kilns.
+- **Technical Parameters:**
+  - Fixed Carbon Content: > 75.0% – 82.0%
+  - Ash Content: < 3.0%
+  - Moisture: < 7.0%
+  - Volatile Matter: 12.0% – 15.0%
+  - Hardness Index: > 98.0%
+  - Particle Granulation: Standard 3x8 mesh, 4x8 mesh, or custom client sizing.
+- **Packaging:** 50 kg woven PP sacks with inner poly liners, or 1 Metric Ton (1000 kg) heavy-duty bulk Jumbo bags.
+- **Primary Applications:** Raw feed material for activated carbon production kilns (air filtration, water purification, gold recovery extraction).
+
+---
+
+### Product 5: Pulverized Coconut Shell Charcoal Powder
+- **Canonical URL:** https://rbnexim.com/product-charcoal-powder.html
+- **HS Code:** 44029010
+- **Granulometry:** Pulverized through air-swept micro-mills into ultra-fine mesh (200 mesh to 325 mesh).
+- **Technical Parameters:**
+  - Fixed Carbon: > 78.0%
+  - Ash Content: < 3.5%
+  - Moisture: < 6.0%
+  - Methylene Blue Absorption: > 120 mg/g
+  - Acid Soluble Matter: < 1.5%
+- **Packaging:** 25 kg multi-layer Kraft paper bags with internal barrier liner to prevent dust migration.
+- **Primary Applications:** Briquette manufacturing, hookah shisha binder matrices, agricultural biochar soil rejuvenation, metallurgical carbon additive.
+
+---
+
+### Product 6: Coconut Expeller Cake (Copra Meal Feed)
+- **Canonical URL:** https://rbnexim.com/product-coconut-cake.html
+- **HS Code:** 23065010
+- **Origin:** Solid protein and fiber residue remaining after mechanical screw expelling of sun-dried coconut copra.
+- **Nutritional & Feeding Analysis:**
+  - Crude Protein: 18.0% – 22.0%
+  - Residual Crude Fat / Oil: 7.0% – 10.0%
+  - Crude Fiber: 10.0% – 12.0%
+  - Moisture: < 8.0%
+  - Total Digestible Nutrients (TDN): > 75.0%
+  - Aflatoxin B1: < 20 ppb (Meets strict international animal feed safety thresholds)
+- **Packaging:** 50 kg laminated PP bags or 1000 kg jumbo bags.
+- **Benefits:** High rumen-bypass energy; proven to elevate milk yields and butterfat percentages in dairy cattle; premium digestible energy for swine and aquaculture feeds.
+
+---
+
+### Product 7: Commercial Refined & Cold-Pressed Castor Oil
+- **Canonical URL:** https://rbnexim.com/product-castor-oil.html
+- **HS Code:** 15153090 / 15153020
+- **Grades Offered:** First Special Grade (FSG), Commercial Grade, Cold-Pressed Pure Castor Oil.
+- **Technical Specifications:**
+  - Ricinoleic Acid Purity: > 85.0% – 90.0%
+  - Free Fatty Acids (FFA): < 0.50% (FSG) / < 1.5% (Commercial)
+  - Hydroxyl Value: 160 – 168 mg KOH/g
+  - Iodine Value: 82 – 90
+  - Viscosity at 25°C: 9.5 – 10.5 Stokes
+  - Color (Lovibond 1" cell): Y < 2.0, R < 0.4
+- **Packaging:** 200 Liter (225 kg net) brand-new epoxied steel drums, 1000L IBC totes, 20ft flexitanks.
+
+---
+
+## 3. Commercial Export Documentation & Shipping Protocols
+- **Incoterms 2020 Handled:**
+  - **FOB (Free on Board):** Port of Mangalore, Port of Chennai, or Nhava Sheva (JNPT) Mumbai.
+  - **CFR / CIF (Cost, Insurance & Freight):** Direct containerized liner delivery to Jebel Ali (UAE), Dammam/Jeddah (Saudi Arabia), Singapore, Port Klang (Malaysia), Rotterdam (Netherlands), Hamburg (Germany), New York/Savannah (USA).
+- **Standard Export Documentation Provided:**
+  1. Commercial Invoice & Packing List (Attested)
+  2. Bill of Lading (Clean on Board Ocean B/L)
+  3. Certificate of Origin (COO) issued by Chamber of Commerce / FIEO
+  4. Certificate of Analysis (COA) for exact consignment batch parameters
+  5. Phytosanitary Certificate issued by Ministry of Agriculture, India
+  6. Non-GMO & Fumigation Certificates
+  7. Third-party inspection reports (SGS, Bureau Veritas, Intertek) upon buyer request.
+
+---
+
+## 4. B2B Inquiries & Ordering Instructions
+Enterprise buyers, procurement heads, and import brokers can request formal FOB/CIF proforma quotations via:
+- **Online RFQ Desk:** https://rbnexim.com/contact.html
+- **Direct Export WhatsApp:** +91 70190 81066
+- **Corporate Inquiry Email:** info@rbnexim.com

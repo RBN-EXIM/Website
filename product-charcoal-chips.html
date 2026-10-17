@@ -14,6 +14,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
+    <meta name="referrer" content="strict-origin-when-cross-origin">
     <title>Coconut Shell Charcoal Chips (Granulated) Exporter | RBN EXIM</title>
     
     <!-- SEO & Metadata -->
@@ -62,11 +63,21 @@
       "category": "Industrial Materials > Carbon & Charcoal",
       "offers": {
         "@type": "AggregateOffer",
+        "url": "https://rbnexim.com/product-charcoal-chips.html",
         "priceCurrency": "USD",
-        "price": "Contact for Wholesale FOB/CIF Quote",
+        "lowPrice": "580",
+        "highPrice": "780",
+        "offerCount": "120",
+        "priceValidUntil": "2027-12-31",
         "itemCondition": "https://schema.org/NewCondition",
-        "availability": "https://schema.org/InStock"
-      }
+        "availability": "https://schema.org/InStock",
+        "seller": {
+          "@type": "Organization",
+          "name": "RBN EXIM",
+          "url": "https://rbnexim.com/"
+        }
+      },
+      "mpn": "EXIM-CC-2026"
     }
     </script>
     <!-- Twitter Cards -->
@@ -75,7 +86,34 @@
     <meta name="twitter:description" content="Granulated raw coconut shell charcoal pieces with high fixed carbon (75–85%) and minimal ash (<3%) from Tiptur, Karnataka.">
     <meta name="twitter:image" content="https://rbnexim.com/assets/Charcoal%20Chips.png">
     <!-- Preload Critical Hero Image for LCP -->
-    <link rel="preload" as="image" href="assets/Charcoal Chips.jpg" fetchpriority="high">
+    <link rel="preload" as="image" href="assets/Charcoal Chips.webp" type="image/webp" fetchpriority="high">
+    <!-- Schema.org Breadcrumb Navigation Structured Data -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://rbnexim.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Products",
+          "item": "https://rbnexim.com/products.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Coconut Shell Charcoal Chips",
+          "item": "https://rbnexim.com/product-charcoal-chips.html"
+        }
+      ]
+    }
+    </script>
 </head>
 <body class="bg-[#FAF7F2] text-brand-dark font-sans antialiased flex flex-col min-h-screen" x-data="{ mobileMenuOpen: false }">
 
@@ -86,7 +124,7 @@
                 <div class="flex-shrink-0 flex items-center">
                     <a href="index.html" class="flex items-center gap-3 group">
                         <div class="h-10 md:h-12 flex items-start">
-                            <img src="assets/logo-transparent.png" alt="RBN EXIM Graphic" class="h-[3.25rem] md:h-16 w-auto object-contain drop-shadow-sm" style="clip-path: inset(0 0 25% 0);">
+                            <img src="assets/logo-transparent.png" alt="RBN EXIM Graphic" class="h-[3.25rem] md:h-16 w-auto object-contain drop-shadow-sm" style="clip-path: inset(0 0 25% 0);" width="512" height="512">
                         </div>
                         <div class="flex flex-col justify-center mt-0.5">
                             <span class="text-brand-dark font-serif font-bold text-2xl md:text-[1.75rem] leading-none tracking-tight group-hover:text-[#4A2E1B] transition-colors">RBN EXIM</span>
@@ -104,7 +142,7 @@
                 </div>
                 <div class="md:hidden flex items-center">
                     <button @click="mobileMenuOpen = !mobileMenuOpen" 
-                            class="w-11 h-11 flex items-center justify-center rounded-md text-brand-dark hover:bg-brand-dark/5 active:bg-brand-dark/10 transition-colors focus:outline-none" 
+                            class="w-12 h-12 flex items-center justify-center rounded-md text-brand-dark hover:bg-brand-dark/5 active:bg-brand-dark/10 transition-colors focus:outline-none" 
                             aria-label="Toggle Navigation Menu">
                         <svg style="width: 1.5rem; height: 1.5rem;" class="h-6 w-6" stroke="currentColor" fill="none" viewBox="0 0 24 24">
                             <path x-show="!mobileMenuOpen" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
@@ -166,7 +204,7 @@
                 <div class="product-gallery-col">
                     <div class="product-showcase-card">
                         <div class="showcase-image-box">
-                            <img src="assets/Charcoal Chips.jpg" alt="Coconut Shell Charcoal Chips">
+                            <img src="assets/Charcoal Chips.jpg" alt="Coconut Shell Charcoal Chips" width="1000" height="1000">
                             <span class="badge-tag badge-dark">HS CODE 4402 90 10</span>
                             <span class="badge-tag badge-amber">3x8 / 4x8 MESH</span>
                         </div>
@@ -449,7 +487,7 @@
             <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8 md:gap-12 mb-12 md:mb-16">
                 <!-- Brand Info -->
                 <div class="col-span-1 lg:col-span-1">
-                    <img src="assets/rbn-exim-logo.png" alt="RBN EXIM Logo" class="h-24 w-auto object-contain mb-6 -ml-2">
+                    <img src="assets/rbn-exim-logo.png" alt="RBN EXIM Logo" class="h-24 w-auto object-contain mb-6 -ml-2" width="512" height="512">
                     <p class="text-white/60 text-sm leading-relaxed mb-6">
                         Delivering India's finest agricultural products and premium coconut exports to the global market.
                     </p>

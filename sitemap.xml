@@ -1,115 +1,196 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <!-- Core Corporate Pages -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <!-- Core Corporate Hub Pages -->
   <url>
     <loc>https://rbnexim.com/</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://rbnexim.com/assets/ai_export_barrel_india_1790413927157.jpg</image:loc>
+      <image:title>RBN EXIM - Premium Indian Coconut Products and Global Agro Export</image:title>
+      <image:caption>B2B manufacturer and exporter of cold pressed virgin coconut oil, copra, and charcoal from Tiptur, India</image:caption>
+    </image:image>
   </url>
+
   <url>
     <loc>https://rbnexim.com/products.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://rbnexim.com/assets/raw_vco.jpg</image:loc>
+      <image:title>RBN EXIM Agricultural Export Catalog</image:title>
+      <image:caption>Full range of certified coconut derivatives, copra, charcoal, and castor oil</image:caption>
+    </image:image>
   </url>
+
   <url>
     <loc>https://rbnexim.com/about.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://rbnexim.com/assets/ai_hero_copra_about_v2_1790407954463.jpg</image:loc>
+      <image:title>RBN EXIM Sourcing &amp; Processing Facilities in Tiptur, Karnataka</image:title>
+      <image:caption>Ethical sourcing directly from local coconut farming cooperatives</image:caption>
+    </image:image>
   </url>
-  <url>
-    <loc>https://rbnexim.com/blog.html</loc>
-    <lastmod>2026-10-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.85</priority>
-  </url>
-  <url>
-    <loc>https://rbnexim.com/blog-tiptur-copra-guide.html</loc>
-    <lastmod>2026-10-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.85</priority>
-  </url>
-  <url>
-    <loc>https://rbnexim.com/blog-cold-pressed-vs-expeller-coconut-oil.html</loc>
-    <lastmod>2026-10-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.85</priority>
-  </url>
-  <url>
-    <loc>https://rbnexim.com/blog-fob-vs-cif-bulk-oil-freight.html</loc>
-    <lastmod>2026-10-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.85</priority>
-  </url>
+
   <url>
     <loc>https://rbnexim.com/contact.html</loc>
-    <lastmod>2026-10-15</lastmod>
+    <lastmod>2026-10-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
-  <!-- Dedicated Product Detail Pages (High Intent B2B) -->
-  <url>
-    <loc>https://rbnexim.com/product-virgin-coconut-oil.html</loc>
-    <lastmod>2026-10-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.85</priority>
-  </url>
-  <url>
-    <loc>https://rbnexim.com/product-coconut-oil.html</loc>
-    <lastmod>2026-10-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.85</priority>
-  </url>
+  <!-- Dedicated Product Detail Pages (High Intent B2B Image Discovery) -->
   <url>
     <loc>https://rbnexim.com/product-copra.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://rbnexim.com/assets/raw_copra.jpg</image:loc>
+      <image:title>Premium Tiptur Copra (Edible &amp; Milling Grade Half Cups)</image:title>
+      <image:caption>100% sun-dried, sulfur-free Tiptur copra with over 68% oil content and moisture below 6%</image:caption>
+    </image:image>
   </url>
+
   <url>
-    <loc>https://rbnexim.com/product-charcoal-powder.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <loc>https://rbnexim.com/product-virgin-coconut-oil.html</loc>
+    <lastmod>2026-10-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://rbnexim.com/assets/raw_vco.jpg</image:loc>
+      <image:title>Cold Pressed Extra Virgin Coconut Oil (VCO)</image:title>
+      <image:caption>Centrifuge extracted, unrefined edible grade virgin coconut oil in 200L drums and IBC totes</image:caption>
+    </image:image>
   </url>
+
   <url>
-    <loc>https://rbnexim.com/product-charcoal-chips.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <loc>https://rbnexim.com/product-coconut-oil.html</loc>
+    <lastmod>2026-10-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://rbnexim.com/assets/ai_coconutoil_premium_1790401943621.jpg</image:loc>
+      <image:title>Pure Expeller Pressed Coconut Oil (Milling &amp; Industrial Grade)</image:title>
+      <image:caption>Double filtered natural coconut oil for food processing and cosmetic manufacturing</image:caption>
+    </image:image>
   </url>
-  <url>
-    <loc>https://rbnexim.com/product-coconut-cake.html</loc>
-    <lastmod>2026-10-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.85</priority>
-  </url>
+
   <url>
     <loc>https://rbnexim.com/product-castor-oil.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://rbnexim.com/assets/ai_castoroil_premium_1790402027667.jpg</image:loc>
+      <image:title>Commercial Grade Refined Castor Oil (First Special Grade)</image:title>
+      <image:caption>High purity ricinoleic acid content castor oil for pharmaceutical, lubricant, and industrial applications</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://rbnexim.com/product-charcoal-chips.html</loc>
+    <lastmod>2026-10-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://rbnexim.com/assets/Charcoal%20Chips.jpg</image:loc>
+      <image:title>Coconut Shell Granulated Charcoal Chips (Activated Carbon Raw Material)</image:title>
+      <image:caption>Natural carbonized coconut shell chips with low ash and high fixed carbon for industrial water and air filtration</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://rbnexim.com/product-charcoal-powder.html</loc>
+    <lastmod>2026-10-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://rbnexim.com/assets/raw_charcoal_powder.jpg</image:loc>
+      <image:title>Pulverized Coconut Shell Charcoal Powder</image:title>
+      <image:caption>Fine mesh pulverized charcoal powder for metallurgy, soil conditioning, and briquette manufacturing</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://rbnexim.com/product-coconut-cake.html</loc>
+    <lastmod>2026-10-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://rbnexim.com/assets/raw_cake.jpg</image:loc>
+      <image:title>Coconut Expeller Cake (Copra Meal / Cattle Feed)</image:title>
+      <image:caption>High protein, high energy residue cake from coconut oil extraction for livestock and dairy feed</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Educational Blog Guides (Knowledge Hub) -->
+  <url>
+    <loc>https://rbnexim.com/blog.html</loc>
+    <lastmod>2026-10-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
   </url>
 
-  <!-- Commercial Documents & Compliance -->
+  <url>
+    <loc>https://rbnexim.com/blog-tiptur-copra-guide.html</loc>
+    <lastmod>2026-10-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://rbnexim.com/assets/ai_hero_copra_about_v2_1790407954463.jpg</image:loc>
+      <image:title>Comprehensive Tiptur Copra Export Quality Guide</image:title>
+      <image:caption>Analysis of oil content, moisture standards, and grading criteria for Indian ball copra</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://rbnexim.com/blog-cold-pressed-vs-expeller-coconut-oil.html</loc>
+    <lastmod>2026-10-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://rbnexim.com/assets/ai_coconutoil_premium_1790401943621.jpg</image:loc>
+      <image:title>Cold Pressed vs Expeller Pressed Coconut Oil Industrial Comparison</image:title>
+      <image:caption>Manufacturing differences, smoke points, and commercial procurement specifications</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://rbnexim.com/blog-fob-vs-cif-bulk-oil-freight.html</loc>
+    <lastmod>2026-10-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://rbnexim.com/assets/ai_export_barrel_india_1790413927157.jpg</image:loc>
+      <image:title>FOB vs CIF Incoterms for International Bulk Oil Container Shipping</image:title>
+      <image:caption>Export logistics, risk transfer, freight insurance, and port handling documentation guide</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Commercial Documents & Legal -->
   <url>
     <loc>https://rbnexim.com/assets/RBN_EXIM_Catalogue.pdf</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://rbnexim.com/privacy.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-17</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
     <loc>https://rbnexim.com/terms.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-17</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
